@@ -1,0 +1,173 @@
+# 📁 German Law Agent .gitignore
+
+# ===========================================
+# ⚠️ GESCHÜTZTE VERZEICHNISSE
+# ===========================================
+
+# Knowledge-Dateien (Kern-IP)
+knowledge/red-flag-terms.md
+knowledge/mandatory-clauses.md
+
+# Skills (Kern-Logik)
+skills/scan-clauses/SKILL.md
+skills/check-compliance/SKILL.md
+
+# Scripts (interne Test-Skripte)
+scripts/*.js
+scripts/*.sh
+
+# ===========================================
+# 🔐 SENSIBLE DATEIEN
+# ===========================================
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env.*.local
+
+# API Keys und Tokens
+*.key
+*.pem
+*.p12
+*.pfx
+*.cert
+
+# Konfigurationsdateien mit Credentials
+config/secrets.json
+config/credentials.json
+config/auth.json
+
+# OAuth Token
+*.token
+token.json
+access_token.json
+refresh_token.json
+
+# ===========================================
+# 📦 DEPENDENCIES & BUILD
+# ===========================================
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+build/
+out/
+.cache/
+
+# TypeScript
+*.tsbuildinfo
+
+# ===========================================
+# 🛠️ TOOLS & SYSTEM
+# ===========================================
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# Temporäre Dateien
+*.tmp
+*.temp
+tmp/
+temp/
+
+# ===========================================
+# 📊 TEST & COVERAGE
+# ===========================================
+
+# Coverage
+coverage/
+.nyc_output/
+*.lcov
+
+# Test artifacts
+test-results/
+playwright-report/
+
+# ===========================================
+# 📱 MOBILE & DESKTOP
+# ===========================================
+
+# React Native
+*.jks
+*.p8
+*.p12
+*.mobileprovision
+*.orig.*
+
+# Electron
+electron-builder/
+release/
+
+# ===========================================
+# 🔧 MCP & CONNECTORS
+# ===========================================
+
+# MCP-Server Cache
+.mcp-cache/
+.mcp/
+*.mcp.json
+
+# Ansvar Gateway Token
+ansvar-token.json
+
+# Local connector configs
+connectors/local/
+connectors/secrets/
+
+# ===========================================
+# 📄 DOKUMENTATION (EXCLUDE FROM GIT)
+# ===========================================
+
+# Uncomment to exclude analysis results:
+# ergebnisse/*.md
+
+# Large files
+*.pdf
+*.zip
+*.tar.gz
+*.rar
+
+# ===========================================
+# 🚫 NIEMALS COMMITTEN
+# ===========================================
+
+# Credentials
+credentials.json
+service-account.json
+*-credentials.json
+
+# Private Keys
+*-private.pem
+*-private.key
+
+# Secrets
+*.secret
+secrets.json
+vault.json
+
+# Tokens
+*token*.json
+*token*.txt
