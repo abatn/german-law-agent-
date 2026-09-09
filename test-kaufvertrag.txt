@@ -1,0 +1,47 @@
+# KAUFVERTRAG
+
+## Parteien
+- Verkäufer: TechParts GmbH, Musterstraße 1, 80331 München
+- Käufer: Musterkunde AG, Testweg 2, 10115 Berlin
+
+## § 1 Vertragsgegenstand
+Der Verkäufer verkauft und liefert dem Käufer die in Anlage 1 bezeichneten Waren (nachfolgend „Kaufsache") zu den in Anlage 2 angegebenen Preisen.
+
+## § 2 Preis und Zahlung
+2.1 Der Gesamtpreis beträgt 25.000,00 EUR brutto.
+2.2 Die Zahlung erfolgt innerhalb von 45 Tagen nach Rechnungserhalt.
+2.3 Bei Zahlungsverzug werden Verzugszinsen in Höhe von 8 Prozentpunkten über dem Basiszinssatz fällig.
+
+## § 3 Lieferung und Gefahrübergang
+3.1 Die Lieferung erfolgt frei Werk München.
+3.2 Die Gefahr geht mit Übergabe der Kaufsache auf den Käufer über.
+3.3 Der Käufer ist zur unverzüglichen Abnahme verpflichtet.
+
+## § 4 Eigentumsvorbehalt
+4.1 Die gelieferte Kaufsache bleibt bis zur vollständigen Bezahlung Eigentum des Verkäufers.
+4.2 Der Käufer darf die Kaufsache vor Eigentumsübergang nicht weiterveräußern oder belasten.
+
+## § 5 Gewährleistung und Mängelrechte
+5.1 Für Mängel der Kaufsache gelten die gesetzlichen Regelungen der §§ 434 ff. BGB.
+5.2 Die Verjährungsfrist beträgt ein Jahr ab Abnahme der Kaufsache.
+5.3 Mängel sind unverzüglich, spätestens innerhalb von 7 Tagen nach Entdeckung schriftlich anzuzeigen. Andernfalls sind Gewährleistungsansprüche ausgeschlossen.
+5.4 Der Verkäufer hat das Recht zur Mängelbeseitigung (Nacherfüllung) vor der Minderung oder dem Rücktritt.
+5.5 Es wird jegliche Gewährleistung für Schäden ausgeschlossen, die nicht auf Sachmängeln beruhen.
+
+## § 6 Haftung
+6.1 Die Haftung für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit wird ausgeschlossen.
+6.2 Die Haftung für Schäden, die auf grob fahrlässigem Handeln beruhen, wird begrenzt auf den Kaufpreis der Ware.
+6.3 Für entgangenen Gewinn wird nicht gehaftet.
+
+## § 7 Schlussbestimmungen
+7.1 Änderungen dieses Vertrags bedürfen der notariellen Beurkundung.
+7.2 Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts (CISG).
+7.3 Gerichtsstand ist München.
+
+München, den 01.09.2026
+
+_________________________________
+TechParts GmbH
+
+_________________________________
+Musterkunde AG

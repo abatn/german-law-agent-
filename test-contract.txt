@@ -1,0 +1,48 @@
+VERTRAULICHKEITSVEREINBARUNG (NDA)
+
+Zwischen: TechStartup GmbH (nachfolgend „Offlegende Partei")
+und: Consulting AG (nachfolgend „Empfangende Partei")
+
+§ 1 Vertrauliche Informationen
+Alle Informationen, die im Rahmen der Zusammenarbeit ausgetauscht werden, gelten als vertraulich. Dies umfasst insbesondere Geschäftspläne, Finanzdaten, Kundenlisten und technische Dokumentation.
+
+§ 2 Definition des Geheimnisses
+Als Geschäftsgeheimnis gelten alle nicht-öffentlichen Informationen der Offlegenden Partei, die als solche gekennzeichnet sind oder deren Vertraulichkeit offensichtlich ist.
+
+§ 3 Ausnahmen von der Geheimhaltung
+Die Geheimhaltungspflicht gilt nicht für Informationen, die:
+(a) zum Zeitpunkt der Offlegung öffentlich bekannt sind,
+(b) nachweislich bereits vor der Offlegung im Besitz der Empfangenden Partei waren,
+(c) von einem Dritten ohne Verstoß gegen eine Vertraulichkeitspflicht offengelegt werden.
+
+§ 4 Dauer der Geheimhaltung
+Die Geheimhaltungspflicht endet 3 Jahre nach Unterzeichnung dieser Vereinbarung.
+
+§ 5 Rückgabepflicht
+Bei Beendigung dieses Vertrags sind alle vertraulichen Informationen einschließlich aller Kopien zurückzugeben oder zu vernichten.
+
+§ 6 Vertragsstrafe
+Bei jedem Verstoß gegen eine Bestimmung dieser Vereinbarung ist eine Vertragsstrafe in Höhe von 100.000 EUR fällig. Die Geltendmachung eines weitergehenden Schadensersatzes bleibt vorbehalten.
+
+§ 7 Haftung
+Die Haftung für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit wird ausgeschlossen. Die Haftung für sonstige Schäden wird auf 50.000 EUR begrenzt.
+
+§ 8 Aufrechnungsverbot
+Eine Aufrechnung mit Ansprüchen gegen die Offlegende Partei ist ausgeschlossen.
+
+§ 9 Kündigung
+Diese Vereinbarung kann von beiden Parteien unter Einhaltung einer Kündigungsfrist von 14 Tagen zum Monatsende gekündigt werden. Das Recht zur außerordentlichen Kündigung aus wichtigem Grund bleibt unberührt.
+
+§ 10 Verjährung
+Ansprüche aus dieser Vereinbarung verjähren in einem Jahr ab Kenntnis des Verstoßes.
+
+§ 11 Gerichtsstand
+Für alle Streitigkeiten ist ausschließlich das Gericht am Sitz der Offlegenden Partei zuständig.
+
+§ 12 Anwendbares Recht
+Es gilt das Recht der Bundesrepublik Deutschland.
+
+Unterschriften:
+
+___________________________          ___________________________
+TechStartup GmbH                     Consulting AG

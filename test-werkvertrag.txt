@@ -1,0 +1,64 @@
+# WERKVERTRAG
+
+## Parteien
+- Auftraggeber: Bauherr Mustermann, Baustraße 10, 80333 München
+- Auftragnehmer: Handwerk Meister GmbH, Werkstraße 5, 80331 München
+
+## § 1 Vertragsgegenstand
+1.1 Der Auftragnehmer verpflichtet sich zur Errichtung eines Einfamilienhauses gemäß der in Anlage 1 dargestellten Pläne (nachfolgend „Werk").
+1.2 Der Leistungsumfang umfasst Rohbau, Ausbau, Technische Anlagen und Außenanlagen.
+
+## § 2 Vergütung
+2.1 Die Gesamtvergütung beträgt 450.000,00 EUR brutto.
+2.2 Abschlagszahlungen werden wie folgt geleistet:
+   a) 30% bei Baubeginn: 135.000 EUR
+   b) 30% bei Rohbauvollendung: 135.000 EUR
+   c) 20% bei Trockenbau: 90.000 EUR
+   d) 20% bei Abnahme: 90.000 EUR
+2.3 Die restliche Vergütung ist innerhalb von 14 Tagen nach Rechnungserhalt und Abnahme fällig.
+2.4 Für jeden Tag des Zahlungsverzugs des Auftraggebers wird eine Vertragsstrafe von 1% der Auftragssumme fällig.
+
+## § 3 Ausführungsfristen
+3.1 Beginn der Ausführung: 15.09.2026
+3.2 Fertigstellung des Rohbaus: 31.12.2026
+3.3 Gesamtfertigstellung: 30.06.2027
+3.4 Der Auftragnehmer behält sich vor, die Leistung nach eigenem Ermessen zu ändern oder von ihr abzuweichen, wenn dies erforderlich ist.
+
+## § 4 Abnahme
+4.1 Das Werk wird nach Fertigstellung abgenommen.
+4.2 Über Mängel ist unverzüglich schriftlich zu reklamieren.
+4.3 Der Auftraggeber hat das Werk innerhalb von 14 Tagen nach Aufforderung abzunehmen. Schweigen gilt als Abnahme.
+4.4 Das Zurückbehaltungsrecht wird ausgeschlossen. Der Auftraggeber hat auch bei Mängeln in voller Höhe zu leisten.
+
+## § 5 Mängelhaftung
+5.1 Der Auftragnehmer haftet für Mängel gemäß §§ 634 ff. BGB.
+5.2 Die Verjährungsfrist beträgt zwei Jahre ab Abnahme.
+5.3 Mängelbeseitigungsansprüche bestehen nur, wenn Mängel fristgerecht angezeigt wurden.
+5.4 Der Auftragnehmer trägt die Darlegungs- und Beweislast für die ordnungsgemäße Erfüllung seiner Leistungspflichten.
+
+## § 6 Haftung
+6.1 Die Haftung für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit wird ausgeschlossen.
+6.2 Die Haftung bei grobem Verschulden wird begrenzt auf die Auftragssumme.
+6.3 Für Folgeschäden und entgangenen Gewinn wird nicht gehaftet.
+
+## § 7 Kündigung
+7.1 Das Recht zur außerordentlichen Kündigung besteht nicht.
+7.2 Eine ordentliche Kündigung ist nur mit einer Frist von 6 Monaten zum Quartalsende möglich.
+7.3 Bei Kündigung durch den Auftraggeber hat dieser die erbrachten Leistungen zu vergüten und dem Auftragnehmer den entgangenen Gewinn zu ersetzen.
+
+## § 8 Vertragsstrafen
+8.1 Bei jedem Verstoß gegen eine Bestimmung dieses Vertrags ist eine Vertragsstrafe in Höhe von 25.000 EUR fällig.
+8.2 Eine Aufrechnung mit Ansprüchen gegen den Auftragnehmer ist ausgeschlossen.
+
+## § 9 Schlussbestimmungen
+9.1 Für alle Streitigkeiten ist ausschließlich das Gericht am Sitz des Auftragnehmers zuständig.
+9.2 Änderungen dieses Vertrags bedürfen der Schriftform.
+9.3 Es gilt das Recht der Bundesrepublik Deutschland.
+
+München, den 01.09.2026
+
+_________________________________
+Bauherr Mustermann
+
+_________________________________
+Handwerk Meister GmbH
